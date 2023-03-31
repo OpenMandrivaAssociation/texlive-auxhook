@@ -1,6 +1,6 @@
 Name:		texlive-auxhook
 Version:	53173
-Release:	1
+Release:	2
 Summary:	Hooks for auxiliary files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/auxhook
