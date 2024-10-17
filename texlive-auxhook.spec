@@ -3,7 +3,7 @@ Version:	53173
 Release:	2
 Summary:	Hooks for auxiliary files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/auxhook
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/auxhook
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/auxhook.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/auxhook.doc.r%{version}.tar.xz
